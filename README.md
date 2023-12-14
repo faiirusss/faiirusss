@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faiirusss
-- 👀 I’m interested in programming and technology
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me contact my instagram @fairuslmi_
